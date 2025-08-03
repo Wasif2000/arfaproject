@@ -1,8 +1,6 @@
 import React from 'react'
 
 function Contact() {
-  return (
-    <div>
 
   return (
     <div className="py-16 px-4 max-w-3xl mx-auto">
